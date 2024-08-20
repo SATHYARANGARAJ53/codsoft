@@ -1,0 +1,15 @@
+{
+  "name": "simple-calci",
+  "version": "1.0.0",
+  "description": "It is a simple calculator made using html, css, javaScript.",
+  "main": "script.js",
+  "scripts": {
+    "start": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sathya",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
